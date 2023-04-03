@@ -1,0 +1,1902 @@
+[
+    {
+        "player": {
+            "id": 237082,
+            "name": "N. Cudrig",
+            "firstname": "Nicolò",
+            "lastname": "Cudrig",
+            "age": 21,
+            "birth": {
+                "date": "2002-08-07",
+                "place": null,
+                "country": "Italy"
+            },
+            "nationality": "Italy",
+            "height": null,
+            "weight": null,
+            "injured": false,
+            "photo": "https://media-1.api-sports.io/football/players/237082.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 496,
+                    "name": "Juventus",
+                    "logo": "https://media-1.api-sports.io/football/teams/496.png"
+                },
+                "league": {
+                    "id": 135,
+                    "name": "Serie A",
+                    "country": "Italy",
+                    "logo": "https://media-1.api-sports.io/football/leagues/135.png",
+                    "flag": "https://media-1.api-sports.io/flags/it.svg",
+                    "season": 2022
+                },
+                "games": {
+                    "appearences": 0,
+                    "lineups": 0,
+                    "minutes": 0,
+                    "number": null,
+                    "position": "Attacker",
+                    "rating": null,
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": 0,
+                    "out": 0,
+                    "bench": 0
+                },
+                "shots": {
+                    "total": null,
+                    "on": null
+                },
+                "goals": {
+                    "total": 0,
+                    "conceded": null,
+                    "assists": null,
+                    "saves": null
+                },
+                "passes": {
+                    "total": null,
+                    "key": null,
+                    "accuracy": null
+                },
+                "tackles": {
+                    "total": null,
+                    "blocks": null,
+                    "interceptions": null
+                },
+                "duels": {
+                    "total": null,
+                    "won": null
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "success": null,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": null,
+                    "committed": null
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellowred": 0,
+                    "red": 0
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": null,
+                    "missed": null,
+                    "saved": null
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "id": 30784,
+            "name": "N. Rovella",
+            "firstname": "Nicolò",
+            "lastname": "Rovella",
+            "age": 22,
+            "birth": {
+                "date": "2001-12-04",
+                "place": "Segrate",
+                "country": "Italy"
+            },
+            "nationality": "Italy",
+            "height": "179 cm",
+            "weight": "66 kg",
+            "injured": false,
+            "photo": "https://media-2.api-sports.io/football/players/30784.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 496,
+                    "name": "Juventus",
+                    "logo": "https://media-1.api-sports.io/football/teams/496.png"
+                },
+                "league": {
+                    "id": 135,
+                    "name": "Serie A",
+                    "country": "Italy",
+                    "logo": "https://media-2.api-sports.io/football/leagues/135.png",
+                    "flag": "https://media-2.api-sports.io/flags/it.svg",
+                    "season": 2022
+                },
+                "games": {
+                    "appearences": 3,
+                    "lineups": 0,
+                    "minutes": 23,
+                    "number": null,
+                    "position": "Midfielder",
+                    "rating": "6.833333",
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": 3,
+                    "out": 0,
+                    "bench": 3
+                },
+                "shots": {
+                    "total": 2,
+                    "on": null
+                },
+                "goals": {
+                    "total": 0,
+                    "conceded": 0,
+                    "assists": null,
+                    "saves": null
+                },
+                "passes": {
+                    "total": 21,
+                    "key": null,
+                    "accuracy": 7
+                },
+                "tackles": {
+                    "total": 1,
+                    "blocks": null,
+                    "interceptions": null
+                },
+                "duels": {
+                    "total": 5,
+                    "won": 4
+                },
+                "dribbles": {
+                    "attempts": 2,
+                    "success": 2,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": 1,
+                    "committed": 1
+                },
+                "cards": {
+                    "yellow": 1,
+                    "yellowred": 0,
+                    "red": 0
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": 0,
+                    "missed": 0,
+                    "saved": null
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "id": 150,
+            "name": "Arthur",
+            "firstname": "Arthur Henrique",
+            "lastname": "Ramos de Oliveira Melo",
+            "age": 27,
+            "birth": {
+                "date": "1996-08-12",
+                "place": "Goiânia",
+                "country": "Brazil"
+            },
+            "nationality": "Brazil",
+            "height": "171 cm",
+            "weight": "73 kg",
+            "injured": false,
+            "photo": "https://media-3.api-sports.io/football/players/150.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 496,
+                    "name": "Juventus",
+                    "logo": "https://media-2.api-sports.io/football/teams/496.png"
+                },
+                "league": {
+                    "id": 135,
+                    "name": "Serie A",
+                    "country": "Italy",
+                    "logo": "https://media-1.api-sports.io/football/leagues/135.png",
+                    "flag": "https://media-2.api-sports.io/flags/it.svg",
+                    "season": 2022
+                },
+                "games": {
+                    "appearences": 0,
+                    "lineups": 0,
+                    "minutes": 0,
+                    "number": null,
+                    "position": "Midfielder",
+                    "rating": null,
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": 0,
+                    "out": 0,
+                    "bench": 0
+                },
+                "shots": {
+                    "total": null,
+                    "on": null
+                },
+                "goals": {
+                    "total": 0,
+                    "conceded": null,
+                    "assists": null,
+                    "saves": null
+                },
+                "passes": {
+                    "total": null,
+                    "key": null,
+                    "accuracy": null
+                },
+                "tackles": {
+                    "total": null,
+                    "blocks": null,
+                    "interceptions": null
+                },
+                "duels": {
+                    "total": null,
+                    "won": null
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "success": null,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": null,
+                    "committed": null
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellowred": 0,
+                    "red": 0
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": null,
+                    "missed": null,
+                    "saved": null
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "id": 30554,
+            "name": "L. Pellegrini",
+            "firstname": "Luca",
+            "lastname": "Pellegrini",
+            "age": 24,
+            "birth": {
+                "date": "1999-03-07",
+                "place": "Roma",
+                "country": "Italy"
+            },
+            "nationality": "Italy",
+            "height": "178 cm",
+            "weight": "72 kg",
+            "injured": false,
+            "photo": "https://media-1.api-sports.io/football/players/30554.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 496,
+                    "name": "Juventus",
+                    "logo": "https://media-2.api-sports.io/football/teams/496.png"
+                },
+                "league": {
+                    "id": 135,
+                    "name": "Serie A",
+                    "country": "Italy",
+                    "logo": "https://media-3.api-sports.io/football/leagues/135.png",
+                    "flag": "https://media-2.api-sports.io/flags/it.svg",
+                    "season": 2022
+                },
+                "games": {
+                    "appearences": 0,
+                    "lineups": 0,
+                    "minutes": 0,
+                    "number": null,
+                    "position": "Defender",
+                    "rating": null,
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": 0,
+                    "out": 0,
+                    "bench": 0
+                },
+                "shots": {
+                    "total": null,
+                    "on": null
+                },
+                "goals": {
+                    "total": 0,
+                    "conceded": 0,
+                    "assists": null,
+                    "saves": null
+                },
+                "passes": {
+                    "total": null,
+                    "key": null,
+                    "accuracy": null
+                },
+                "tackles": {
+                    "total": null,
+                    "blocks": null,
+                    "interceptions": null
+                },
+                "duels": {
+                    "total": null,
+                    "won": null
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "success": null,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": null,
+                    "committed": null
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellowred": 0,
+                    "red": 0
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": 0,
+                    "missed": 0,
+                    "saved": null
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "id": 850,
+            "name": "C. Pinsoglio",
+            "firstname": "Carlo",
+            "lastname": "Pinsoglio",
+            "age": 33,
+            "birth": {
+                "date": "1990-03-16",
+                "place": "Moncalieri",
+                "country": "Italy"
+            },
+            "nationality": "Italy",
+            "height": "194 cm",
+            "weight": "85 kg",
+            "injured": false,
+            "photo": "https://media-2.api-sports.io/football/players/850.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 496,
+                    "name": "Juventus",
+                    "logo": "https://media-2.api-sports.io/football/teams/496.png"
+                },
+                "league": {
+                    "id": 135,
+                    "name": "Serie A",
+                    "country": "Italy",
+                    "logo": "https://media-1.api-sports.io/football/leagues/135.png",
+                    "flag": "https://media-1.api-sports.io/flags/it.svg",
+                    "season": 2022
+                },
+                "games": {
+                    "appearences": 0,
+                    "lineups": 0,
+                    "minutes": 0,
+                    "number": null,
+                    "position": "Goalkeeper",
+                    "rating": null,
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": 0,
+                    "out": 0,
+                    "bench": 27
+                },
+                "shots": {
+                    "total": null,
+                    "on": null
+                },
+                "goals": {
+                    "total": 0,
+                    "conceded": 0,
+                    "assists": null,
+                    "saves": null
+                },
+                "passes": {
+                    "total": null,
+                    "key": null,
+                    "accuracy": null
+                },
+                "tackles": {
+                    "total": null,
+                    "blocks": null,
+                    "interceptions": null
+                },
+                "duels": {
+                    "total": null,
+                    "won": null
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "success": null,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": null,
+                    "committed": null
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellowred": 0,
+                    "red": 0
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": 0,
+                    "missed": 0,
+                    "saved": 0
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "id": 849,
+            "name": "M. Perin",
+            "firstname": "Mattia",
+            "lastname": "Perin",
+            "age": 31,
+            "birth": {
+                "date": "1992-11-10",
+                "place": "Latina",
+                "country": "Italy"
+            },
+            "nationality": "Italy",
+            "height": "188 cm",
+            "weight": "85 kg",
+            "injured": false,
+            "photo": "https://media-3.api-sports.io/football/players/849.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 496,
+                    "name": "Juventus",
+                    "logo": "https://media-3.api-sports.io/football/teams/496.png"
+                },
+                "league": {
+                    "id": 135,
+                    "name": "Serie A",
+                    "country": "Italy",
+                    "logo": "https://media-3.api-sports.io/football/leagues/135.png",
+                    "flag": "https://media-2.api-sports.io/flags/it.svg",
+                    "season": 2022
+                },
+                "games": {
+                    "appearences": 9,
+                    "lineups": 8,
+                    "minutes": 767,
+                    "number": null,
+                    "position": "Goalkeeper",
+                    "rating": "7.177777",
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": 1,
+                    "out": 0,
+                    "bench": 18
+                },
+                "shots": {
+                    "total": null,
+                    "on": null
+                },
+                "goals": {
+                    "total": 0,
+                    "conceded": 6,
+                    "assists": null,
+                    "saves": 28
+                },
+                "passes": {
+                    "total": 254,
+                    "key": null,
+                    "accuracy": 19
+                },
+                "tackles": {
+                    "total": null,
+                    "blocks": null,
+                    "interceptions": null
+                },
+                "duels": {
+                    "total": 3,
+                    "won": 3
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "success": null,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": 1,
+                    "committed": null
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellowred": 0,
+                    "red": 0
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": 0,
+                    "missed": 0,
+                    "saved": 0
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "id": 162500,
+            "name": "G. Garofani",
+            "firstname": "Giovanni Gabriele",
+            "lastname": "Garofani",
+            "age": 21,
+            "birth": {
+                "date": "2002-10-20",
+                "place": null,
+                "country": "Italy"
+            },
+            "nationality": "Italy",
+            "height": "188 cm",
+            "weight": null,
+            "injured": false,
+            "photo": "https://media-1.api-sports.io/football/players/162500.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 496,
+                    "name": "Juventus",
+                    "logo": "https://media-1.api-sports.io/football/teams/496.png"
+                },
+                "league": {
+                    "id": 135,
+                    "name": "Serie A",
+                    "country": "Italy",
+                    "logo": "https://media-2.api-sports.io/football/leagues/135.png",
+                    "flag": "https://media-3.api-sports.io/flags/it.svg",
+                    "season": 2022
+                },
+                "games": {
+                    "appearences": 0,
+                    "lineups": 0,
+                    "minutes": 0,
+                    "number": null,
+                    "position": "Goalkeeper",
+                    "rating": null,
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": 0,
+                    "out": 0,
+                    "bench": 4
+                },
+                "shots": {
+                    "total": null,
+                    "on": null
+                },
+                "goals": {
+                    "total": 0,
+                    "conceded": 0,
+                    "assists": null,
+                    "saves": null
+                },
+                "passes": {
+                    "total": null,
+                    "key": null,
+                    "accuracy": null
+                },
+                "tackles": {
+                    "total": null,
+                    "blocks": null,
+                    "interceptions": null
+                },
+                "duels": {
+                    "total": null,
+                    "won": null
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "success": null,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": null,
+                    "committed": null
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellowred": 0,
+                    "red": 0
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": 0,
+                    "missed": 0,
+                    "saved": 0
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "id": 335099,
+            "name": "S. Scaglia",
+            "firstname": "Simone",
+            "lastname": "Scaglia",
+            "age": 19,
+            "birth": {
+                "date": "2004-07-12",
+                "place": null,
+                "country": "Italy"
+            },
+            "nationality": "Italy",
+            "height": null,
+            "weight": null,
+            "injured": false,
+            "photo": "https://media-2.api-sports.io/football/players/335099.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 496,
+                    "name": "Juventus",
+                    "logo": "https://media-2.api-sports.io/football/teams/496.png"
+                },
+                "league": {
+                    "id": 135,
+                    "name": "Serie A",
+                    "country": "Italy",
+                    "logo": "https://media-2.api-sports.io/football/leagues/135.png",
+                    "flag": "https://media-3.api-sports.io/flags/it.svg",
+                    "season": 2022
+                },
+                "games": {
+                    "appearences": 0,
+                    "lineups": 0,
+                    "minutes": 0,
+                    "number": null,
+                    "position": "Goalkeeper",
+                    "rating": null,
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": 0,
+                    "out": 0,
+                    "bench": 1
+                },
+                "shots": {
+                    "total": null,
+                    "on": null
+                },
+                "goals": {
+                    "total": 0,
+                    "conceded": 0,
+                    "assists": null,
+                    "saves": null
+                },
+                "passes": {
+                    "total": null,
+                    "key": null,
+                    "accuracy": null
+                },
+                "tackles": {
+                    "total": null,
+                    "blocks": null,
+                    "interceptions": null
+                },
+                "duels": {
+                    "total": null,
+                    "won": null
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "success": null,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": null,
+                    "committed": null
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellowred": 0,
+                    "red": 0
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": 0,
+                    "missed": 0,
+                    "saved": 0
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "id": 136014,
+            "name": "G. Crespi",
+            "firstname": "Gian Marco",
+            "lastname": "Crespi",
+            "age": 22,
+            "birth": {
+                "date": "2001-06-28",
+                "place": "Udine",
+                "country": "Italy"
+            },
+            "nationality": "Italy",
+            "height": null,
+            "weight": null,
+            "injured": false,
+            "photo": "https://media-2.api-sports.io/football/players/136014.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 496,
+                    "name": "Juventus",
+                    "logo": "https://media-3.api-sports.io/football/teams/496.png"
+                },
+                "league": {
+                    "id": 135,
+                    "name": "Serie A",
+                    "country": "Italy",
+                    "logo": "https://media-3.api-sports.io/football/leagues/135.png",
+                    "flag": "https://media-3.api-sports.io/flags/it.svg",
+                    "season": 2022
+                },
+                "games": {
+                    "appearences": null,
+                    "lineups": null,
+                    "minutes": null,
+                    "number": null,
+                    "position": "Goalkeeper",
+                    "rating": null,
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": null,
+                    "out": null,
+                    "bench": null
+                },
+                "shots": {
+                    "total": null,
+                    "on": null
+                },
+                "goals": {
+                    "total": null,
+                    "conceded": null,
+                    "assists": null,
+                    "saves": null
+                },
+                "passes": {
+                    "total": null,
+                    "key": null,
+                    "accuracy": null
+                },
+                "tackles": {
+                    "total": null,
+                    "blocks": null,
+                    "interceptions": null
+                },
+                "duels": {
+                    "total": null,
+                    "won": null
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "success": null,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": null,
+                    "committed": null
+                },
+                "cards": {
+                    "yellow": null,
+                    "yellowred": null,
+                    "red": null
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": null,
+                    "missed": null,
+                    "saved": null
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "id": 858,
+            "name": "M. De Sciglio",
+            "firstname": "Mattia",
+            "lastname": "De Sciglio",
+            "age": 31,
+            "birth": {
+                "date": "1992-10-20",
+                "place": "Milano",
+                "country": "Italy"
+            },
+            "nationality": "Italy",
+            "height": "182 cm",
+            "weight": "78 kg",
+            "injured": false,
+            "photo": "https://media-1.api-sports.io/football/players/858.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 496,
+                    "name": "Juventus",
+                    "logo": "https://media-2.api-sports.io/football/teams/496.png"
+                },
+                "league": {
+                    "id": 135,
+                    "name": "Serie A",
+                    "country": "Italy",
+                    "logo": "https://media-2.api-sports.io/football/leagues/135.png",
+                    "flag": "https://media-3.api-sports.io/flags/it.svg",
+                    "season": 2022
+                },
+                "games": {
+                    "appearences": 15,
+                    "lineups": 9,
+                    "minutes": 921,
+                    "number": null,
+                    "position": "Defender",
+                    "rating": "6.626666",
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": 6,
+                    "out": 6,
+                    "bench": 6
+                },
+                "shots": {
+                    "total": 3,
+                    "on": null
+                },
+                "goals": {
+                    "total": 0,
+                    "conceded": 0,
+                    "assists": null,
+                    "saves": null
+                },
+                "passes": {
+                    "total": 417,
+                    "key": 6,
+                    "accuracy": 23
+                },
+                "tackles": {
+                    "total": 11,
+                    "blocks": 3,
+                    "interceptions": 4
+                },
+                "duels": {
+                    "total": 59,
+                    "won": 33
+                },
+                "dribbles": {
+                    "attempts": 4,
+                    "success": 2,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": 10,
+                    "committed": 4
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellowred": 0,
+                    "red": 0
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": 0,
+                    "missed": 0,
+                    "saved": null
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "id": 618,
+            "name": "Danilo",
+            "firstname": "Danilo Luiz",
+            "lastname": "da Silva",
+            "age": 32,
+            "birth": {
+                "date": "1991-07-15",
+                "place": "Bicas",
+                "country": "Brazil"
+            },
+            "nationality": "Brazil",
+            "height": "184 cm",
+            "weight": "78 kg",
+            "injured": false,
+            "photo": "https://media-1.api-sports.io/football/players/618.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 496,
+                    "name": "Juventus",
+                    "logo": "https://media-1.api-sports.io/football/teams/496.png"
+                },
+                "league": {
+                    "id": 135,
+                    "name": "Serie A",
+                    "country": "Italy",
+                    "logo": "https://media-3.api-sports.io/football/leagues/135.png",
+                    "flag": "https://media-2.api-sports.io/flags/it.svg",
+                    "season": 2022
+                },
+                "games": {
+                    "appearences": 27,
+                    "lineups": 26,
+                    "minutes": 2352,
+                    "number": null,
+                    "position": "Defender",
+                    "rating": "7.188888",
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": 1,
+                    "out": 0,
+                    "bench": 1
+                },
+                "shots": {
+                    "total": 18,
+                    "on": 4
+                },
+                "goals": {
+                    "total": 3,
+                    "conceded": 0,
+                    "assists": 3,
+                    "saves": null
+                },
+                "passes": {
+                    "total": 1472,
+                    "key": 16,
+                    "accuracy": 45
+                },
+                "tackles": {
+                    "total": 60,
+                    "blocks": 15,
+                    "interceptions": 35
+                },
+                "duels": {
+                    "total": 193,
+                    "won": 113
+                },
+                "dribbles": {
+                    "attempts": 11,
+                    "success": 3,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": 14,
+                    "committed": 27
+                },
+                "cards": {
+                    "yellow": 4,
+                    "yellowred": 0,
+                    "red": 0
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": 0,
+                    "missed": 0,
+                    "saved": null
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "id": 860,
+            "name": "Alex Sandro",
+            "firstname": "Alex Sandro",
+            "lastname": "Lobo Silva",
+            "age": 32,
+            "birth": {
+                "date": "1991-01-26",
+                "place": "Catanduva",
+                "country": "Brazil"
+            },
+            "nationality": "Brazil",
+            "height": "180 cm",
+            "weight": "80 kg",
+            "injured": false,
+            "photo": "https://media-3.api-sports.io/football/players/860.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 496,
+                    "name": "Juventus",
+                    "logo": "https://media-1.api-sports.io/football/teams/496.png"
+                },
+                "league": {
+                    "id": 135,
+                    "name": "Serie A",
+                    "country": "Italy",
+                    "logo": "https://media-2.api-sports.io/football/leagues/135.png",
+                    "flag": "https://media-2.api-sports.io/flags/it.svg",
+                    "season": 2022
+                },
+                "games": {
+                    "appearences": 21,
+                    "lineups": 17,
+                    "minutes": 1456,
+                    "number": null,
+                    "position": "Defender",
+                    "rating": "6.923809",
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": 4,
+                    "out": 4,
+                    "bench": 6
+                },
+                "shots": {
+                    "total": 4,
+                    "on": null
+                },
+                "goals": {
+                    "total": 0,
+                    "conceded": 0,
+                    "assists": 1,
+                    "saves": null
+                },
+                "passes": {
+                    "total": 919,
+                    "key": 10,
+                    "accuracy": 38
+                },
+                "tackles": {
+                    "total": 23,
+                    "blocks": 8,
+                    "interceptions": 13
+                },
+                "duels": {
+                    "total": 147,
+                    "won": 90
+                },
+                "dribbles": {
+                    "attempts": 15,
+                    "success": 13,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": 21,
+                    "committed": 21
+                },
+                "cards": {
+                    "yellow": 4,
+                    "yellowred": 0,
+                    "red": 1
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": 0,
+                    "missed": 0,
+                    "saved": null
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "id": 268341,
+            "name": "F. Gatti",
+            "firstname": "Federico",
+            "lastname": "Gatti",
+            "age": 25,
+            "birth": {
+                "date": "1998-06-24",
+                "place": null,
+                "country": "Italy"
+            },
+            "nationality": "Italy",
+            "height": "190 cm",
+            "weight": null,
+            "injured": false,
+            "photo": "https://media-3.api-sports.io/football/players/268341.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 496,
+                    "name": "Juventus",
+                    "logo": "https://media-3.api-sports.io/football/teams/496.png"
+                },
+                "league": {
+                    "id": 135,
+                    "name": "Serie A",
+                    "country": "Italy",
+                    "logo": "https://media-2.api-sports.io/football/leagues/135.png",
+                    "flag": "https://media-1.api-sports.io/flags/it.svg",
+                    "season": 2022
+                },
+                "games": {
+                    "appearences": 8,
+                    "lineups": 7,
+                    "minutes": 633,
+                    "number": null,
+                    "position": "Defender",
+                    "rating": "7.075000",
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": 1,
+                    "out": 0,
+                    "bench": 20
+                },
+                "shots": {
+                    "total": 3,
+                    "on": 1
+                },
+                "goals": {
+                    "total": 0,
+                    "conceded": 0,
+                    "assists": null,
+                    "saves": null
+                },
+                "passes": {
+                    "total": 395,
+                    "key": 2,
+                    "accuracy": 40
+                },
+                "tackles": {
+                    "total": 8,
+                    "blocks": 6,
+                    "interceptions": 12
+                },
+                "duels": {
+                    "total": 55,
+                    "won": 31
+                },
+                "dribbles": {
+                    "attempts": 1,
+                    "success": 1,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": 8,
+                    "committed": 8
+                },
+                "cards": {
+                    "yellow": 3,
+                    "yellowred": 0,
+                    "red": 0
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": 0,
+                    "missed": 0,
+                    "saved": null
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "id": 126980,
+            "name": "T. Barbieri",
+            "firstname": "Tommaso",
+            "lastname": "Barbieri",
+            "age": 21,
+            "birth": {
+                "date": "2002-08-26",
+                "place": null,
+                "country": "Italy"
+            },
+            "nationality": "Italy",
+            "height": "181 cm",
+            "weight": "59 kg",
+            "injured": false,
+            "photo": "https://media-3.api-sports.io/football/players/126980.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 496,
+                    "name": "Juventus",
+                    "logo": "https://media-2.api-sports.io/football/teams/496.png"
+                },
+                "league": {
+                    "id": 135,
+                    "name": "Serie A",
+                    "country": "Italy",
+                    "logo": "https://media-2.api-sports.io/football/leagues/135.png",
+                    "flag": "https://media-2.api-sports.io/flags/it.svg",
+                    "season": 2022
+                },
+                "games": {
+                    "appearences": 0,
+                    "lineups": 0,
+                    "minutes": 0,
+                    "number": null,
+                    "position": "Defender",
+                    "rating": null,
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": 0,
+                    "out": 0,
+                    "bench": 5
+                },
+                "shots": {
+                    "total": null,
+                    "on": null
+                },
+                "goals": {
+                    "total": 0,
+                    "conceded": 0,
+                    "assists": null,
+                    "saves": null
+                },
+                "passes": {
+                    "total": null,
+                    "key": null,
+                    "accuracy": null
+                },
+                "tackles": {
+                    "total": null,
+                    "blocks": null,
+                    "interceptions": null
+                },
+                "duels": {
+                    "total": null,
+                    "won": null
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "success": null,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": null,
+                    "committed": null
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellowred": 0,
+                    "red": 0
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": 0,
+                    "missed": 0,
+                    "saved": null
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "id": 162501,
+            "name": "A. Riccio",
+            "firstname": "Alessandro Pio",
+            "lastname": "Riccio",
+            "age": 21,
+            "birth": {
+                "date": "2002-02-06",
+                "place": null,
+                "country": "Italy"
+            },
+            "nationality": "Italy",
+            "height": "184 cm",
+            "weight": "64 kg",
+            "injured": false,
+            "photo": "https://media-3.api-sports.io/football/players/162501.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 496,
+                    "name": "Juventus",
+                    "logo": "https://media-1.api-sports.io/football/teams/496.png"
+                },
+                "league": {
+                    "id": 135,
+                    "name": "Serie A",
+                    "country": "Italy",
+                    "logo": "https://media-2.api-sports.io/football/leagues/135.png",
+                    "flag": "https://media-3.api-sports.io/flags/it.svg",
+                    "season": 2022
+                },
+                "games": {
+                    "appearences": 0,
+                    "lineups": 0,
+                    "minutes": 0,
+                    "number": null,
+                    "position": "Defender",
+                    "rating": null,
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": 0,
+                    "out": 0,
+                    "bench": 1
+                },
+                "shots": {
+                    "total": null,
+                    "on": null
+                },
+                "goals": {
+                    "total": 0,
+                    "conceded": 0,
+                    "assists": null,
+                    "saves": null
+                },
+                "passes": {
+                    "total": null,
+                    "key": null,
+                    "accuracy": null
+                },
+                "tackles": {
+                    "total": null,
+                    "blocks": null,
+                    "interceptions": null
+                },
+                "duels": {
+                    "total": null,
+                    "won": null
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "success": null,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": null,
+                    "committed": null
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellowred": 0,
+                    "red": 0
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": 0,
+                    "missed": 0,
+                    "saved": null
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "id": 361497,
+            "name": "D. Huijsen",
+            "firstname": "Dean Donny",
+            "lastname": "Huijsen",
+            "age": 18,
+            "birth": {
+                "date": "2005-04-14",
+                "place": null,
+                "country": "Netherlands"
+            },
+            "nationality": "Netherlands",
+            "height": "195 cm",
+            "weight": null,
+            "injured": false,
+            "photo": "https://media-3.api-sports.io/football/players/361497.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 496,
+                    "name": "Juventus",
+                    "logo": "https://media-1.api-sports.io/football/teams/496.png"
+                },
+                "league": {
+                    "id": 135,
+                    "name": "Serie A",
+                    "country": "Italy",
+                    "logo": "https://media-2.api-sports.io/football/leagues/135.png",
+                    "flag": "https://media-2.api-sports.io/flags/it.svg",
+                    "season": 2022
+                },
+                "games": {
+                    "appearences": null,
+                    "lineups": null,
+                    "minutes": null,
+                    "number": null,
+                    "position": "Defender",
+                    "rating": null,
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": null,
+                    "out": null,
+                    "bench": null
+                },
+                "shots": {
+                    "total": null,
+                    "on": null
+                },
+                "goals": {
+                    "total": null,
+                    "conceded": null,
+                    "assists": null,
+                    "saves": null
+                },
+                "passes": {
+                    "total": null,
+                    "key": null,
+                    "accuracy": null
+                },
+                "tackles": {
+                    "total": null,
+                    "blocks": null,
+                    "interceptions": null
+                },
+                "duels": {
+                    "total": null,
+                    "won": null
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "success": null,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": null,
+                    "committed": null
+                },
+                "cards": {
+                    "yellow": null,
+                    "yellowred": null,
+                    "red": null
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": null,
+                    "missed": null,
+                    "saved": null
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "id": 904,
+            "name": "P. Pogba",
+            "firstname": "Paul Labile",
+            "lastname": "Pogba",
+            "age": 30,
+            "birth": {
+                "date": "1993-03-15",
+                "place": "Lagny-sur-Marne",
+                "country": "France"
+            },
+            "nationality": "France",
+            "height": "191 cm",
+            "weight": "84 kg",
+            "injured": false,
+            "photo": "https://media-1.api-sports.io/football/players/904.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 496,
+                    "name": "Juventus",
+                    "logo": "https://media-3.api-sports.io/football/teams/496.png"
+                },
+                "league": {
+                    "id": 135,
+                    "name": "Serie A",
+                    "country": "Italy",
+                    "logo": "https://media-1.api-sports.io/football/leagues/135.png",
+                    "flag": "https://media-2.api-sports.io/flags/it.svg",
+                    "season": 2022
+                },
+                "games": {
+                    "appearences": 2,
+                    "lineups": 0,
+                    "minutes": 35,
+                    "number": null,
+                    "position": "Midfielder",
+                    "rating": "6.450000",
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": 2,
+                    "out": 0,
+                    "bench": 3
+                },
+                "shots": {
+                    "total": null,
+                    "on": null
+                },
+                "goals": {
+                    "total": 0,
+                    "conceded": 0,
+                    "assists": null,
+                    "saves": null
+                },
+                "passes": {
+                    "total": 21,
+                    "key": null,
+                    "accuracy": 7
+                },
+                "tackles": {
+                    "total": null,
+                    "blocks": null,
+                    "interceptions": null
+                },
+                "duels": {
+                    "total": 9,
+                    "won": 6
+                },
+                "dribbles": {
+                    "attempts": null,
+                    "success": null,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": 3,
+                    "committed": 1
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellowred": 0,
+                    "red": 0
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": 0,
+                    "missed": 0,
+                    "saved": null
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "id": 866,
+            "name": "J. Cuadrado",
+            "firstname": "Juan Guillermo",
+            "lastname": "Cuadrado Bello",
+            "age": 35,
+            "birth": {
+                "date": "1988-05-26",
+                "place": "Necoclí",
+                "country": "Colombia"
+            },
+            "nationality": "Colombia",
+            "height": "179 cm",
+            "weight": "72 kg",
+            "injured": false,
+            "photo": "https://media-3.api-sports.io/football/players/866.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 496,
+                    "name": "Juventus",
+                    "logo": "https://media-3.api-sports.io/football/teams/496.png"
+                },
+                "league": {
+                    "id": 135,
+                    "name": "Serie A",
+                    "country": "Italy",
+                    "logo": "https://media-3.api-sports.io/football/leagues/135.png",
+                    "flag": "https://media-2.api-sports.io/flags/it.svg",
+                    "season": 2022
+                },
+                "games": {
+                    "appearences": 21,
+                    "lineups": 16,
+                    "minutes": 1327,
+                    "number": null,
+                    "position": "Midfielder",
+                    "rating": "7.176190",
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": 5,
+                    "out": 10,
+                    "bench": 5
+                },
+                "shots": {
+                    "total": 19,
+                    "on": 8
+                },
+                "goals": {
+                    "total": 1,
+                    "conceded": 0,
+                    "assists": 3,
+                    "saves": null
+                },
+                "passes": {
+                    "total": 691,
+                    "key": 32,
+                    "accuracy": 28
+                },
+                "tackles": {
+                    "total": 35,
+                    "blocks": 1,
+                    "interceptions": 15
+                },
+                "duels": {
+                    "total": 140,
+                    "won": 76
+                },
+                "dribbles": {
+                    "attempts": 22,
+                    "success": 9,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": 25,
+                    "committed": 18
+                },
+                "cards": {
+                    "yellow": 3,
+                    "yellowred": 0,
+                    "red": 1
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": 0,
+                    "missed": 0,
+                    "saved": null
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "id": 181808,
+            "name": "F. Miretti",
+            "firstname": "Fabio",
+            "lastname": "Miretti",
+            "age": 20,
+            "birth": {
+                "date": "2003-08-03",
+                "place": null,
+                "country": "Italy"
+            },
+            "nationality": "Italy",
+            "height": "179 cm",
+            "weight": null,
+            "injured": false,
+            "photo": "https://media-3.api-sports.io/football/players/181808.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 496,
+                    "name": "Juventus",
+                    "logo": "https://media-2.api-sports.io/football/teams/496.png"
+                },
+                "league": {
+                    "id": 135,
+                    "name": "Serie A",
+                    "country": "Italy",
+                    "logo": "https://media-1.api-sports.io/football/leagues/135.png",
+                    "flag": "https://media-3.api-sports.io/flags/it.svg",
+                    "season": 2022
+                },
+                "games": {
+                    "appearences": 19,
+                    "lineups": 10,
+                    "minutes": 898,
+                    "number": null,
+                    "position": "Midfielder",
+                    "rating": "6.610526",
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": 9,
+                    "out": 9,
+                    "bench": 13
+                },
+                "shots": {
+                    "total": 9,
+                    "on": 5
+                },
+                "goals": {
+                    "total": 0,
+                    "conceded": 0,
+                    "assists": 2,
+                    "saves": null
+                },
+                "passes": {
+                    "total": 366,
+                    "key": 14,
+                    "accuracy": 14
+                },
+                "tackles": {
+                    "total": 18,
+                    "blocks": 1,
+                    "interceptions": 2
+                },
+                "duels": {
+                    "total": 125,
+                    "won": 49
+                },
+                "dribbles": {
+                    "attempts": 28,
+                    "success": 11,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": 16,
+                    "committed": 16
+                },
+                "cards": {
+                    "yellow": 1,
+                    "yellowred": 0,
+                    "red": 0
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": 0,
+                    "missed": 0,
+                    "saved": null
+                }
+            }
+        ]
+    },
+    {
+        "player": {
+            "id": 323936,
+            "name": "M. Soulé",
+            "firstname": "Matías",
+            "lastname": "Soulé Malvano",
+            "age": 20,
+            "birth": {
+                "date": "2003-04-15",
+                "place": "Mar del Plata",
+                "country": "Argentina"
+            },
+            "nationality": "Argentina",
+            "height": "176 cm",
+            "weight": null,
+            "injured": false,
+            "photo": "https://media-2.api-sports.io/football/players/323936.png"
+        },
+        "statistics": [
+            {
+                "team": {
+                    "id": 496,
+                    "name": "Juventus",
+                    "logo": "https://media-3.api-sports.io/football/teams/496.png"
+                },
+                "league": {
+                    "id": 135,
+                    "name": "Serie A",
+                    "country": "Italy",
+                    "logo": "https://media-2.api-sports.io/football/leagues/135.png",
+                    "flag": "https://media-1.api-sports.io/flags/it.svg",
+                    "season": 2022
+                },
+                "games": {
+                    "appearences": 11,
+                    "lineups": 3,
+                    "minutes": 316,
+                    "number": null,
+                    "position": "Midfielder",
+                    "rating": "6.745454",
+                    "captain": false
+                },
+                "substitutes": {
+                    "in": 8,
+                    "out": 3,
+                    "bench": 24
+                },
+                "shots": {
+                    "total": 8,
+                    "on": 5
+                },
+                "goals": {
+                    "total": 1,
+                    "conceded": 0,
+                    "assists": null,
+                    "saves": null
+                },
+                "passes": {
+                    "total": 125,
+                    "key": 8,
+                    "accuracy": 9
+                },
+                "tackles": {
+                    "total": 4,
+                    "blocks": null,
+                    "interceptions": 3
+                },
+                "duels": {
+                    "total": 51,
+                    "won": 21
+                },
+                "dribbles": {
+                    "attempts": 19,
+                    "success": 10,
+                    "past": null
+                },
+                "fouls": {
+                    "drawn": 5,
+                    "committed": 3
+                },
+                "cards": {
+                    "yellow": 0,
+                    "yellowred": 0,
+                    "red": 0
+                },
+                "penalty": {
+                    "won": null,
+                    "commited": null,
+                    "scored": 0,
+                    "missed": 0,
+                    "saved": null
+                }
+            }
+        ]
+    }
+]

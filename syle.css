@@ -1,0 +1,207 @@
+body {
+    margin: 0px;
+    overflow-x: hidden;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Lora', serif;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    color: white;
+    background-color: black;
+}
+
+/* barre de navigation */
+nav {
+    position: fixed;
+    right: 0;
+    left: 0;
+    top: 0;
+    z-index: 3;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    background-color: white;
+}
+
+.logoHome {
+    margin-top: 7px;
+}
+
+/*section accueil */
+.Accueil {
+    background-image: url(./img/973501.jpg);
+    height: 1080px;
+    margin: 0;
+    z-index: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+h1 {
+    font-size: 100px;
+    padding-top: 130px;
+    margin-left: 110px;
+    margin-bottom: 0;
+    margin-top: 0;
+    color: black;
+}
+
+h3 {
+    font-size: 40px;
+    margin-left: 110px;
+    color: black;
+}
+h2 {
+    font-size: 45px;
+}
+
+/* cards de la page accueil */
+.Cards {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 320px;
+    z-index: 2;
+    position: relative;
+
+}
+
+.card {
+    height: 250px;
+    width: 350px;
+    border: solid 1px black;
+    border-radius: 12px;
+}
+
+#card1 {
+    background-image: url(./img/Dusan-Vlahovic-has-emerged-as-a-reported-transfer-target-for-goal-shy-Chelsea-350x250.jpg);
+    background-repeat: no-repeat;
+}
+
+#card2 {
+    background-image: url(./img/chiesa-cropped_8g2ani8rmwe21b4y8j8huczpo-350x250.jpg);
+}
+
+#card3 {
+    background-image: url(./img/pogba-350x250.jpg);
+}
+
+#card4 {
+    background-image: url(./img/dima.jpg);
+}
+
+#card5 {
+    background-image: url(./img/Filip-Kostic-celebrates-his-23rd-minute-winner-350x250.jpg);
+}
+
+.fond {
+    width: 100vw;
+    position: absolute;
+    top: 80vh;
+    opacity: 0.8;
+}
+
+/* categorie histoire */
+.Histoire {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+    padding: 20px;
+}
+
+.txt-histoire {
+    grid-column: 1;
+    text-align: justify;
+    width: 750px;
+    margin-left: 30px;
+    line-height: 20px;
+    margin-top: 30px;
+    color: white;
+
+}
+
+.img-histoire {
+    grid-column: 2;
+    margin-top: 280px;
+}
+.cr7 {
+    border-radius: 12px;
+}
+
+/* PALMARES */
+
+.Palmares {
+    height: 500px;
+}
+.affichage {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    margin-top: 150px;
+}
+.trophy {
+    display: flex;
+    border: 1px solid black;
+    height: 35px;
+    width: 200px;
+    align-items: center;
+    padding-left: 15px;
+    background-color:white ;
+    align-items: flex-start;
+}
+.trophy p {
+    margin-top: 5%;
+    color: black;
+}
+
+#palmah2 {
+    margin-left: 45px;
+}
+
+#resulth2{
+    margin-left: 45px;
+    margin-top: 100px;
+}
+
+/* affichage du dom EQUIPE */
+
+.container-equipe {
+    display: flex;
+    justify-content: center;
+}
+
+.stats-container {
+    display: block;
+    height: fit-content;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img-ekp {
+    margin-right: 55px;
+}
+
+/* affichage du dom JOUEURS */
+
+.joueur-container {
+    height: fit-content;
+    width: fit-content;    
+    padding-left: 1rem;
+    padding-bottom: 1rem;
+    margin-top: 5px;
+    display: inline-block;
+}
+
+.joueurCard{
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: rgba(220, 220, 220, 0.205) ;
+}
+
