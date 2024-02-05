@@ -1,4 +1,4 @@
-import posthog from 'posthog-js' 
+
 
 let serieA = document.querySelector("#serieA");
 let coppaIta = document.querySelector("#coppaIta");
@@ -250,5 +250,3 @@ function afficherJoueurs() {
 }
 afficherJoueurs();
 
-posthog.init(phc_KVwMPH1zpeKPIIYKsCKqoA5LwEyeaUYxwHXzT92aGeX, { api_host: 'https://app.posthog.com' })
-posthog.capture('$pageview')
